@@ -1,0 +1,4 @@
+message "`cd` significa cambiar de carpeta."
+
+console "cd /var/www" 
+message "`cd /var/www` cambia a la carpeta por defecto del servidor web."
